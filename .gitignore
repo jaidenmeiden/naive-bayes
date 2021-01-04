@@ -101,3 +101,5 @@ fabric.properties
 .~lock.**
 
 # End of https://www.gitignore.io/api/pycharm
+/datasets
+/corpus*
