@@ -1,0 +1,6 @@
+jupyter==1.0.0
+matplotlib==3.3.3
+nltk==3.4.5
+numpy==1.19.4
+pandas==1.0.1
+plotly==4.14.1
